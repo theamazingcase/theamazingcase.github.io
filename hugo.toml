@@ -1,0 +1,4 @@
+baseURL = 'casey.meme'
+languageCode = 'en-us'
+title = 'Large Language Marketing'
+theme = 'caseydotmeme'

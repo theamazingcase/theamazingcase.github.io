@@ -1,0 +1,12 @@
+name = 'caseydotmeme'
+license = 'MIT'
+licenselink = 'gh.com/TODO'
+description = 'We memein'
+
+# The home page of the theme, where the source can be found
+homepage = 'gh.com/TODO'
+
+# If the theme has a single author
+[author]
+  name = 'Casey Samulski'
+  homepage = 'https://casey.meme'
